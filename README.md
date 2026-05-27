@@ -1,6 +1,6 @@
 # Análise de Tráfego de Rede: Incidente de DNS
 
-Este projeto faz parte do meu portfólio de Cibersegurança e foi desenvolvido durante o curso **Google Cybersecurity Professional Certificate** no Coursera. 
+Este projeto faz parte do meu portfólio de Cibersegurança e foi desenvolvido durante o curso **Google Cybersecurity Professional Certificate**. 
 
 Aqui, assumo o papel de um Analista de Segurança Cibernética investigando uma falha de conexão usando a análise de pacotes de rede.
 
